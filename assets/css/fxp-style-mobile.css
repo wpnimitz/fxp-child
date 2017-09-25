@@ -1,0 +1,6 @@
+@media screen and (max-width: 768px) {
+	.home-top .et_pb_column:nth-child(1) {
+    	padding-top: 30px;
+    	padding-bottom: 60px;
+	}
+}

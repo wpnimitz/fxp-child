@@ -1,0 +1,48 @@
+#main-header {
+    -webkit-box-shadow: 0 0 7px rgba(0,0,0,.1)!important;
+    -moz-box-shadow: 0 0 7px rgba(0,0,0,.1)!important;
+    box-shadow: 0 0 7px rgba(0,0,0,.1)!important;
+}
+
+#top-menu li a {
+    text-transform: uppercase;
+}
+
+#top-menu li.current_page_item a {
+    font-weight: bold;
+}
+
+
+
+
+
+.accent {
+	color: #2892bf;
+}
+.desktop-block {
+    display: block;
+}
+
+
+
+
+
+.admin-bar .home-top {
+    min-height: calc( 100vh - 165px );
+}
+.home-top {
+    min-height: calc( 100vh - 133px );
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.home-top h1 {
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 15px;
+}
+
+
+
