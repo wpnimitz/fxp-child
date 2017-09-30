@@ -28,7 +28,7 @@
 
 
 .admin-bar .home-top {
-    min-height: calc( 100vh - 165px );
+    min-height: calc( 100vh - 164px );
 }
 .home-top {
     min-height: calc( 100vh - 133px );
