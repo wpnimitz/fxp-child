@@ -1,0 +1,57 @@
+/* BLOG PAGE CUSTOMIZATION */
+.page-id-761 h1 {
+    margin-bottom: 0;
+}
+
+.blob .et_pb_row {
+    background: #ededed;
+    padding: 0 20px 30px;
+}
+
+.blob .et_pb_widget_area_left {
+    border-right: 0px solid rgba(0,0,0,.1);
+}
+
+.blob .entry-featured-image-url {
+    display: inline-block !important;
+    max-width: 350px;
+    float: left;
+    padding-right: 20px;
+}
+
+
+.blob .entry-featured-image-url + h2,
+.blob .entry-featured-image-url + h2 + .post-content {
+    max-width: calc( 100% - 350px );
+    display: inline-block;
+}
+
+.blob .post-meta {
+    display: none;
+}
+
+.blob .entry-featured-image-url + h2 {
+    margin-top: 0;
+}
+
+.blob .more-link {
+    text-transform: uppercase;
+    background: #19a2f0;
+    color: #fff;
+    padding: 5px 10px;
+    display: inline-block !important;
+    float: right;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.blob h4.widgettitle {
+    font-family: 'Roboto',Helvetica,Arial,Lucida,sans-serif !important;
+}
+
+
+.blob .widget_recent_entries li {
+    padding-left: 30px;
+    background: url(http://drbobbaker.com/wp-content/uploads/2017/10/small-blue-arrow.png) no-repeat left center;
+    background-size: 18px;
+}
