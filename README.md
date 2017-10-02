@@ -9,3 +9,10 @@ A child theme for Divi Theme of ElegantThemes
 - install yoast SEO
 - install sucuri
 - add the new website to managewp.com
+- instal ninja form (optional)
+
+
+## Post Website Configuration 
+- Install Yoast SEO
+- Install updraftplus
+- Make sure that the website is crawlable by spiders (General -> Reading)
